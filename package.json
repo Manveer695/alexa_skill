@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Manveer695/alexa_skill/issues"
   },
-  "homepage": "https://github.com/Manveer695/alexa_skill#readme"
+  "homepage": "https://github.com/Manveer695/alexa_skill#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  }
 }
